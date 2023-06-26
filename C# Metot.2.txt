@@ -1,0 +1,24 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MetotKonusu : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        isimSoyisim("Turgay", "Kara");      // (2.1)
+        isimSoyisim("Tydot", "Games");      // (2.2) Bir metot birden fazla kez calistirilabilir.
+    }
+
+    void isimSoyisim(string isim, string soyisim)	// (2.3)
+    {
+        print(isim+" " + soyisim);			// (2.4)
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
