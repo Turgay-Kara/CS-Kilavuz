@@ -1,2 +1,2 @@
 # CSharp Notları
-Temel seviye C# Notlarımı sizlerle paylaşıyorum.
+Temel seviye C# notlarımı sizlerle paylaşıyorum.
